@@ -18,4 +18,4 @@
 -------- 
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=kajvan&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kajvan-br&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kajvan&theme=tokyonight)
