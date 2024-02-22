@@ -1,5 +1,5 @@
 ### Hi 👋
-![ViewCount](https://views.whatilearened.today/views/github/kajvan/kajvan.svg?cache=remove)
+![ViewCount](https://views.whatilearened.today/views/github/kajvans/kajvans.svg?cache=remove)
 [![Visit QuizTimes.nl](https://img.shields.io/badge/Visit-QuizTimes.nl-<COLOR>.svg)](https://quiztimes.nl/)
 
 --------
@@ -23,5 +23,5 @@
 
 --------
 
-![Stats](https://github-readme-stats.vercel.app/api?username=kajvan&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kajvan&theme=tokyonight)
+![Stats](https://github-readme-stats.vercel.app/api?username=kajvans&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kajvans&theme=tokyonight)
